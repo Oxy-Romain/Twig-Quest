@@ -1,0 +1,13 @@
+{
+    "name": "wilder/twig",
+    "description": "Quest Twig",
+    "authors": [
+        {
+            "name": "Romain PETIT",
+            "email": "rom.petit@live.fr"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.12"
+    }
+}
